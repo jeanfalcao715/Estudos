@@ -10,7 +10,7 @@
 @param nInAlias, numeric, descricao
 @type function
 /*/
-User function findname(nInAlias,cOpcOut)
+User function FindName(nInAlias,cOpcOut)
   
 	Local     cNomRet          := ""
 	Default   nInAlias     := 2 // SF2
